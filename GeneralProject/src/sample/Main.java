@@ -25,7 +25,7 @@ public class Main {
 				}
 				
 				
-				System.out.println("Going to interrupt the rogue thread");
+				System.out.println("Going to interrupt the rogue thread. Updated the output");
 				t.interrupt();
 			}
 		});
